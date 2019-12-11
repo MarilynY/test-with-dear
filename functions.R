@@ -1,7 +1,10 @@
 foo <- function(){
   print('a')
+  change
  }
  
+foo2
+change using Desktop
  
  bar <- function(x){
     x * x
