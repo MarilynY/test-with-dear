@@ -5,6 +5,7 @@ foo <- function(){
  
 foo2
 change using Desktop
+edit after yml syncing with mine
  
  bar <- function(x){
     x * x
